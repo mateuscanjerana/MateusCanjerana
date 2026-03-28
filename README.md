@@ -12,7 +12,13 @@
     </a>
     <a href = "mailto:caja.mateus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <br><br>
-    <p align="center">Sou Desenvolvedor JavaScript com formação em Ciência da Computação e foco em desenvolvimento web full-stack utilizando React, Node.js e práticas modernas de engenharia de software.<br>Atualmente, estou evoluindo minhas habilidades por meio de projetos reais — criando aplicações do zero, aplicando boas práticas (Clean Code, Git, testes) e realizando deploy em ambiente de produção. Tenho alta capacidade de aprendizado rápido, adaptação e trabalho em equipe.<br>Busco oportunidades para integrar times de tecnologia, contribuir com soluções escaláveis e crescer profissionalmente como desenvolvedor.
+    <p align="center">Sou Desenvolvedor Web com formação em Ciência da Computação, com experiência prática na construção de aplicações web completas.
+
+Desenvolvi sistemas com autenticação de usuários, operações CRUD e integração com banco de dados MySQL, incluindo consultas relacionais (INNER JOIN) e controle de sessões. Também atuo na criação de interfaces responsivas utilizando HTML, CSS e Bootstrap, sempre aplicando boas práticas como organização de código, Clean Code e versionamento com Git/GitHub.
+
+Atualmente, estou em evolução para o ecossistema JavaScript full stack (Node.js, Express, React e TypeScript), desenvolvendo projetos práticos com APIs REST e integração com bancos SQL e NoSQL.
+
+Busco uma oportunidade como Desenvolvedor Web Júnior para aplicar meus conhecimentos, contribuir com soluções eficientes e continuar evoluindo tecnicamente.
 </div>
 </br>
 <hr/>
