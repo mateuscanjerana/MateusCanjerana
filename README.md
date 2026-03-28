@@ -45,7 +45,7 @@ Busco uma oportunidade como Desenvolvedor Web Júnior para aplicar meus conhecim
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!+👋;+Fale+comigo+no+Linkedin!;Ou+pelo+Gmail+se+preferir+✌">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!+👋;+Fale+comigo++pelo+Gmail+se+preferir+✌">
 </h3>
 
 <br/>
