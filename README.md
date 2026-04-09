@@ -17,8 +17,6 @@
 Desenvolvi sistemas com autenticação de usuários, operações CRUD e integração com banco de dados MySQL, incluindo consultas relacionais (INNER JOIN) e controle de sessões. Também atuo na criação de interfaces responsivas utilizando HTML, CSS e Bootstrap, sempre aplicando boas práticas como organização de código, Clean Code e versionamento com Git/GitHub.
 
 Atualmente, estou em evolução para o ecossistema JavaScript full stack (Node.js, Express, React e TypeScript), desenvolvendo projetos práticos com APIs REST e integração com bancos SQL e NoSQL.
-
-Busco uma oportunidade como Desenvolvedor Web Júnior para aplicar meus conhecimentos, contribuir com soluções eficientes e continuar evoluindo tecnicamente.
 </div>
 </br>
 <hr/>
@@ -26,7 +24,7 @@ Busco uma oportunidade como Desenvolvedor Web Júnior para aplicar meus conhecim
 <h2 align="center">🛠 Tecnologias & Frameworks🛠</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs"/>
     <img src="https://skillicons.dev/icons?i=php,mysql,vscode,github,git" /><br>
 </div>
 <br/>
