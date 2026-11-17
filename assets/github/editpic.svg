@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="230" viewBox="0 0 640 230" role="img" aria-label="EditPic: Editor de imagens web">
+ <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111923"/><stop offset="1" stop-color="#090e15"/></linearGradient><linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a4642"/><stop offset="1" stop-color="#0d1521"/></linearGradient></defs>
+ <rect width="640" height="230" rx="18" fill="url(#b)"/>
+ <rect x="16" y="15" width="197" height="200" rx="13" fill="url(#s)" stroke="#46e2d2" stroke-opacity=".35"/>
+ <path d="M45 197 L196 40" stroke="#46e2d2" stroke-opacity=".3" stroke-width="1.5"/>
+ <text x="114" y="118" font-size="56" font-weight="800" font-family="Arial,Helvetica,sans-serif" text-anchor="middle" fill="#46e2d2">IMG</text>
+ <text x="242" y="84" font-size="34" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#f7f8fa">EditPic</text>
+ <rect x="242" y="103" width="65" height="4" rx="2" fill="#46e2d2"/>
+ <text x="242" y="142" font-size="21" font-family="Arial,Helvetica,sans-serif" fill="#d7dce1">Editor de imagens web</text>
+ <text x="242" y="174" font-size="19" font-family="Arial,Helvetica,sans-serif" fill="#9eabb8">Recorte e padronização</text>
+ <rect x="1" y="1" width="638" height="228" rx="17" fill="none" stroke="#343c47" stroke-width="2"/>
+ </svg>
